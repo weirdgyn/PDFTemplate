@@ -1,0 +1,49 @@
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.pdb
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.dll
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.xml
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.dll
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.pdb
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csprojResolveAssemblyReference.cache
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplate.Properties.Resources.resources
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csproj.GenerateResource.Cache
+C:\Users\Michele Santucci\Desktop\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll.config
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll.config
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.pdb
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.dll
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.xml
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csprojResolveAssemblyReference.cache
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplate.Properties.Resources.resources
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csproj.GenerateResource.Cache
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.dll
+C:\Users\Michele Santucci\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.pdb
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll.config
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.pdb
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.dll
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.xml
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csprojResolveAssemblyReference.cache
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplate.Properties.Resources.resources
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csproj.GenerateResource.Cache
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.dll
+C:\Users\Michele\Documents\Progetti\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.pdb
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll.config
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.pdb
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.dll
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.xml
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplate.Properties.Resources.resources
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csproj.GenerateResource.Cache
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.dll
+C:\Users\Michele Santucci\Documents\Progetti\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.pdb
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll.config
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.dll
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\PDFTemplateLib.pdb
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.dll
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\bin\Debug\itextsharp.xml
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csprojResolveAssemblyReference.cache
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplate.Properties.Resources.resources
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.csproj.GenerateResource.Cache
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.dll
+C:\Users\Michele Santucci\Desktop\SOS\PDFTemplate\PDFTemplateLib\obj\Debug\PDFTemplateLib.pdb

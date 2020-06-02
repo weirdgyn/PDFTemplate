@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFTemplate", "PDFTemplate\PDFTemplate.csproj", "{79DBD403-B33C-4431-A70E-6079C2EE62E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFTemplateLib", "PDFTemplateLib\PDFTemplateLib.csproj", "{C73CDD90-0735-46AF-B234-38637E8FB364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DBD403-B33C-4431-A70E-6079C2EE62E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DBD403-B33C-4431-A70E-6079C2EE62E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DBD403-B33C-4431-A70E-6079C2EE62E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DBD403-B33C-4431-A70E-6079C2EE62E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73CDD90-0735-46AF-B234-38637E8FB364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73CDD90-0735-46AF-B234-38637E8FB364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73CDD90-0735-46AF-B234-38637E8FB364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73CDD90-0735-46AF-B234-38637E8FB364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
